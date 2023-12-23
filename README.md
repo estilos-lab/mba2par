@@ -1,2 +1,3 @@
-# mba2par
-Model-based Approaches to Profit-Aware Recommendation
+# Model-based Approaches to Profit-Aware Recommendation
+
+The code will be publicly released after manuscript acceptance.
